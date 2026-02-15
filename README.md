@@ -4,6 +4,12 @@ This document is for **beginners to Kubernetes**. It walks through everything we
 
 ---
 
+- [Original project](https://github.com/SidheshwarSarangal/whiteBoard.git)
+
+- [New project, based on microservices way, with kubernetes kind cluster](https://github.com/SidheshwarSarangal/k8sWhiteBoard.git)
+
+---
+
 ## 1. Kubernetes concepts (in context)
 
 We use only what this project needs. No deep theory.
