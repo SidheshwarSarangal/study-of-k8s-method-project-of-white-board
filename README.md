@@ -1,0 +1,1 @@
+# study-of-k8s-method-project-of-white-board
